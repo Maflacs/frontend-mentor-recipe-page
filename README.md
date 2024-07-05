@@ -1,9 +1,9 @@
 ### Links
 
-- Solution URL: https://github.com/Maflacs/frontend-mentor-social-links-profile
+- Solution URL: https://github.com/Maflacs/frontend-mentor-recipe-page
 
 
-- Live Site URL: https://maflacs.github.io/frontend-mentor-social-links-profile
+- Live Site URL: https://maflacs.github.io/frontend-mentor-recipe-page
 
 
 
