@@ -134,6 +134,7 @@ li::marker {
 
 .ingredients, .instructions {
     border-bottom: 2px solid var(--lGrey);
+    padding-bottom: 2rem;
 }
 
 table {
